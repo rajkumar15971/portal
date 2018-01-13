@@ -1,0 +1,20 @@
+.login_div{
+	margin-left: 585px;
+	margin-top: 50px;
+}
+.login_field{
+	length: 25 px;
+	height: 15 px;
+	font-style: calibri;
+}
+#login_button{
+	margin-left: 75px;
+	margin-right: 75px;
+	width: 100px;
+	height: 80px;
+}
+#portal_h1{
+	margin-top: 150px;
+	text-align: center;
+	color: rgb(0,150,136);
+}
